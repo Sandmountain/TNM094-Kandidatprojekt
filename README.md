@@ -1,4 +1,3 @@
 # Kandidatprojekt2018
 
-Sandmountain has checked in
-Gostis has checked in
+[Screencast of project][https://drive.google.com/open?id=1t-ONlJAENUFvBt1-GnODrcHmAa-oSpS0]
